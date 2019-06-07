@@ -56,7 +56,7 @@ var duration = moment.duration(between_now_and_event).minutes();
 const marquee_message =
   `<li id="xkcd"><marquee>
 
-NYC SOLAR ECLIPSE  2 YEARS 
+BIG APPLE SOLAR ECLIPSE IN 2 YEARS DON'T FORGET SUNSCREEN!
 
   </marquee></li>`;
 
